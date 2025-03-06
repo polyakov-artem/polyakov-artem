@@ -25,8 +25,8 @@
 - Webpack, Vite
 - CSS, SCSS, SASS
 - HTML
-- GIT, GITHUB
-- VSCODE, FIGMA
+- Git, Github
+- VSCode, Figma
 - NPM, Node.js
 - Browser API
 - Английский: понимаю техническую документацию на английском.
