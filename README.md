@@ -13,7 +13,7 @@
 ### Навыки и используемые инструменты
 
 - Javascript, Typescript
-- React, Redux
+- React, Redux, RTK Query
 - Vitest, React Testing Library, MSW
 - ESLint, Prettier, Husky
 - Webpack, Vite
