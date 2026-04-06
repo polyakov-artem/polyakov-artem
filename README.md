@@ -13,7 +13,7 @@
 ### Навыки и используемые инструменты
 
 - Javascript, Typescript
-- React, Redux, RTK Query
+- React, Redux, RTK Query, React Query, Zustand
 - Vitest, React Testing Library, MSW
 - ESLint, Prettier, Husky
 - Webpack, Vite
@@ -23,7 +23,7 @@
 - VSCode, Figma
 - NPM, Node.js
 - Browser API
-- Английский: понимаю техническую документацию на английском.
+- Английский: понимаю техническую документацию на английском
 
 ### Проекты
 
